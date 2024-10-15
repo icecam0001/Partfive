@@ -1,8 +1,8 @@
-Part 5: Testing React Apps
+# Part 5: Testing React Apps
 
 This repository contains my submissions for Part 5 of the Full Stack Open 2024 course.
 
-Features:
+# Features:
 
 Frontend login
 
@@ -13,7 +13,7 @@ Frontend testing
 End-to-end testing
 
 
-Technologies Used
+# Technologies Used
 
 React
 
@@ -27,15 +27,19 @@ PropTypes
 
 Local Storage
 
-Tests
+# Tests
 
 Unit tests with Jest and React Testing Library
+
 End-to-end tests with Cypress
+
 Component testing
+
 Form testing
+
 API integration testing
 
-Setup and Installation
+# Setup and Installation
 
 # Clone the repository
 git clone https://github.com/icecam0001/partfive.git
