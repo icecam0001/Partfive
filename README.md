@@ -1,7 +1,7 @@
 Part 5: Testing React Apps
 
 This repository contains my submissions for Part 5 of the Full Stack Open 2024 course.
-Features
+Features:
 
 Frontend login
 Token handling
