@@ -27,7 +27,7 @@ API integration testing
 
 Setup and Installation
 bashCopy# Clone the repository
-git clone https://github.com/yourusername/partfive.git
+git clone https://github.com/icecam0001/partfive.git
 
 # Navigate to project directory
 cd fullstack-part5
